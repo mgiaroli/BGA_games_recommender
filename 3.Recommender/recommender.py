@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Content-based recommender for games in BGA, given game history, favorite games
 or categories and mechanics the user likes
@@ -10,7 +8,7 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfTransformer
 
 #we load the data
-data=pd.read_csv('BGA_games_recommender/2.Data_Exploration/boardgames.csv')
+data=pd.read_csv('3.Recommender/boardgames.csv')
 
 #category columns
 category_cols = [col for col in data.columns if 'Category:' in col]
