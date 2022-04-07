@@ -85,8 +85,9 @@ history_help=["""English version of BGA only. Logged in BGA, go to this
               Click there. In this new page you will find your 
               "Most played games". Copy and paste the games in the same format 
               as appears there. "Game_name" : "number_of_plays" games, each game
-              separeted by one space. 
-              Example: Stone Age: 60 games Carcassonne: 60 games""",
+              separeted by one space or enter. 
+              Example: Stone Age: 60 games Carcassonne: 60 games. Press Ctrl + Enter to see the 
+              data you entered.""",
               """Para versión en español de BGA solamente. Cuando hayas iniciado sesión en
               BGA, andá a esta [página](https://boardgamearena.com/player?section=lastresults).
               A la derecha, vas a ver "Historial de partidas de" y tu usuario.
@@ -94,8 +95,9 @@ history_help=["""English version of BGA only. Logged in BGA, go to this
               "Juegos más jugados". Copiá y pegá los juegos en el mismo formato
               que aparecen.
               "Nombre_del_juego" : "número_de_partidas" partidas,
-              cada juego separado por un espacio.
-              Ejemplo: Stone Age: 60 partidas Carcassonne: 60 partidas"""]
+              cada juego separado por un espacio o enter.
+              Ejemplo: Stone Age: 60 partidas Carcassonne: 60 partidas. Apretá Ctrl + Enter para ver 
+              los datos que ingresaste."""]
 fav_help=['You can choose as many games as you want','Podés elegir tantos juegos como quieras']
 cat_help=["""You can select as many categories as you want.
           Check this [link](https://boardgamegeek.com/browse/boardgamecategory)
