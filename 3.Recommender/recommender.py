@@ -10,7 +10,7 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfTransformer
 
 #we load the data
-data=pd.read_csv('/home/maggie/BGA_games_recommender/2.Data_Exploration/boardgames.csv')
+data=pd.read_csv('BGA_games_recommender/2.Data_Exploration/boardgames.csv')
 
 #category columns
 category_cols = [col for col in data.columns if 'Category:' in col]
