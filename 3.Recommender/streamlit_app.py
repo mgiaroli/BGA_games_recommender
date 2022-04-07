@@ -21,7 +21,7 @@ names_all=[names, nombres]
 category_cols = [col for col in df.columns if 'Category:' in col]
 category_cols_2=[col.replace('Category: ', '') for col in category_cols]
 #categories in Spanish
-with open('categorias.txt') as file:
+with open('3.Recommender/categorias.txt') as file:
     categorias=file.read().splitlines()
 #spanish-english category dictionary
 dict_cat_spanish=dict(zip(categorias,sorted(category_cols_2)))
@@ -36,7 +36,7 @@ categories_all=[sorted(category_cols_2),sorted(categorias)]
 mechanic_cols = [col for col in df.columns if 'Mechanic:' in col]
 mechanic_cols_2 = [col.replace('Mechanic: ', '') for col in mechanic_cols]
 #mechanics in Spanish
-with open('mecanicas.txt') as file:
+with open('3.Recommender/mecanicas.txt') as file:
     mecanicas=file.read().splitlines()
 #spanish-english mechanic dictionary
 dict_mec_spanish=dict(zip(mecanicas,sorted(mechanic_cols_2)))
