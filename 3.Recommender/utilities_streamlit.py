@@ -24,6 +24,7 @@ def history_data(data,language):
              Ejemplo: Stone Age: 60 partidas Carcassonne: 60 partidas"""]   
     try:
         if language==0: #English
+            st.write(data)
             user_data=re.sub("Most played games","",data,count=1)
             user_data=re.sub("\[Filter]","",user_data).strip()
             played_games_list=user_data.split('games')
