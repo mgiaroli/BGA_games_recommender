@@ -12,7 +12,7 @@ from utilities_streamlit import display_data
 #streamlit run /home/maggie/BGA_games_recommender/3.Recommender/streamlit_app.py
 
 #we load the data
-df=pd.read_csv('BGA_games_recommender/2.Data_Exploration/boardgames.csv')
+df=pd.read_csv('3.Recommender/boardgames.csv')
 
 #names of the games in english and spanish
 names=sorted(df['Name'].to_list(),key=str.lower)
