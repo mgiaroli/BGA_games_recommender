@@ -143,9 +143,6 @@ st.markdown(hide_dataframe_row_index, unsafe_allow_html=True)
 
 #first we choose the language
 language_option = st.sidebar.selectbox('Language/Idioma', ['English', 'Español'])
-with st.sidebar:
-    st.write[]
-
 
 def page(language): #if number=0, the page will
     """design of streamlit app depending on the language"""
