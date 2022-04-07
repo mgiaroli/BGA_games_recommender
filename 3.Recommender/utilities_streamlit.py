@@ -16,11 +16,11 @@ def history_data(data,language):
               están escritos exactamente como en BGA y que los juegos que 
               ingresaste están en BGA (e indexados en BGG)"""]
     warning2=["""Check how you fill your history data. The valid format is 
-             "Game_name" : "number_of_plays" games, each game separeted by one space. 
+             "Game_name" : "number_of_plays" games, each game separated by one space or enter. 
              Example: Stone Age: 60 games Carcassonne: 60 games """,
              """Chequea como cargaste tu historial de partidas. El formato válido 
              es "Nombre_del_juego" : "número_de_partidas" partidas, 
-             cada juego separado por un espacio. 
+             cada juego separado por un espacio o enter. 
              Ejemplo: Stone Age: 60 partidas Carcassonne: 60 partidas"""]   
     try:
         if language==0: #English
