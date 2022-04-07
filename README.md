@@ -14,6 +14,6 @@ The details of the process can be found in the following folders:
 - [2.Data_Exploration](https://github.com/mgiaroli/BGA_games_recommender/tree/main/2.Data_Exploration)
 - [3.Recommender](https://github.com/mgiaroli/BGA_games_recommender/tree/main/3.Recommender)
 
-You can try the streamlit web application follow this link: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mgiaroli/bga_games_recommender/main/3.Recommender/streamlit_app.py)
+You can try the streamlit web application following this link: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mgiaroli/bga_games_recommender/main/3.Recommender/streamlit_app.py)
 
 Future approach: develop a collaborative filtering recommender system.
