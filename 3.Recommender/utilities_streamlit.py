@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Functions that will use to display the user information in the streamlit app
 """
@@ -7,7 +5,7 @@ import pandas as pd
 import re
 import streamlit as st
 
-df_games=pd.read_csv('BGA_games_recommender/2.Data_Exploration/boardgames.csv')
+df_games=pd.read_csv('3.Recommender/boardgames.csv')
 
 def history_data(data,language):
     """Return a dataframe with the user's game history"""
@@ -78,4 +76,3 @@ def display_data(data,language,option):
         return cat(data,language)
     elif option==3: #mec
         return mec(data,language)
-
