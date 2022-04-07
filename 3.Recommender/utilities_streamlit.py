@@ -7,7 +7,7 @@ import pandas as pd
 import re
 import streamlit as st
 
-df_games=pd.read_csv('/home/maggie/BGA_games_recommender/2.Data_Exploration/boardgames.csv')
+df_games=pd.read_csv('BGA_games_recommender/2.Data_Exploration/boardgames.csv')
 
 def history_data(data,language):
     """Return a dataframe with the user's game history"""
