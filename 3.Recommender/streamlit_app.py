@@ -157,7 +157,7 @@ def page(language): #if number=0, the page will
     #we will check if the input is empty
     empty=False
     if options==list_options[language][0]: #game history
-        history_data=st.text_input(text_history[language],help=history_help[language])
+        history_data=st.text_area(text_history[language],help=history_help[language])
         user_data=display_data(history_data,language,0) #we display the user's input
         try: #we try to display the data
             st.write(user_data)
