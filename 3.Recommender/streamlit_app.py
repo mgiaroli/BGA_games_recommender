@@ -124,6 +124,7 @@ text_warning_empty=['Enter your infomation/preferences','Ingresá tu informació
 text_warning=['Check your input','Chequeá lo que ingresaste']
 text_no_new_games=['You know all the games in our database!',
                    'Conocés todos los juegos en nuestra base de datos!']
+text_last_updated=['Last updated: 7 April 2022', 'Última actualización: 7 de abril de 2022']
 
 
 #we need the following to hide indexes in a table
@@ -142,6 +143,9 @@ st.markdown(hide_dataframe_row_index, unsafe_allow_html=True)
 
 #first we choose the language
 language_option = st.sidebar.selectbox('Language/Idioma', ['English', 'Español'])
+with st.sidebar:
+    st.write[]
+
 
 def page(language): #if number=0, the page will
     """design of streamlit app depending on the language"""
@@ -151,6 +155,9 @@ def page(language): #if number=0, the page will
     st.header(header[language])
     #we load an image
     st.image('3.Recommender/games.png', use_column_width=True)
+    #last updated
+    with st.sidebar:
+        st.write(text_last_updated[language])
     #introductory text
     st.write(text_intro[language])
     st.write(text_intro2[language])
@@ -232,6 +239,7 @@ def page(language): #if number=0, the page will
                                         st.image(recommendation.Thumbnail.iloc[row])
         except:
             st.warning(text_warning[language])
+        
 
 #we present the app depending on the language
 if language_option=='English':
