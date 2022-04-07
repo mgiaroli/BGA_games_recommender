@@ -148,7 +148,7 @@ def page(language): #if number=0, the page will
     #header
     st.header(header[language])
     #we load an image
-    st.image('games.png', use_column_width=True)
+    st.image('3.Recommender/games.png', use_column_width=True)
     #introductory text
     st.write(text_intro[language])
     st.write(text_intro2[language])
