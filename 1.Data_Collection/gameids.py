@@ -8,6 +8,8 @@ from time import sleep
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
+#to use this scrip, chromedriver.exe file is needed
+
 def get_games_ids(pages):
     '''
     This function is used to get the ids of the games, scraping the data from
