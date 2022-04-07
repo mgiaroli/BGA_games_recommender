@@ -24,7 +24,6 @@ def history_data(data,language):
              Ejemplo: Stone Age: 60 partidas Carcassonne: 60 partidas"""]   
     try:
         if language==0: #English
-            st.write(data)
             user_data=re.sub("Most played games","",data,count=1)
             user_data=re.sub("\[Filter]","",user_data).strip()
             played_games_list=user_data.split('games')
@@ -33,7 +32,6 @@ def history_data(data,language):
             if df.shape[0]!=0 and df[df['Name'].isin(df_games['Name'])].shape[0]==0:
                 return st.warning(warning[language])
         else: #Spanish
-            st.write(data)
             user_data=re.sub("Juegos más jugados","",data,count=1)
             user_data=re.sub("\[Filtrar]","",user_data).strip()
             played_games_list=user_data.split('partidas')
