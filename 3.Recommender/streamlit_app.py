@@ -124,7 +124,7 @@ text_warning_empty=['Enter your infomation/preferences','Ingresá tu informació
 text_warning=['Check your input','Chequeá lo que ingresaste']
 text_no_new_games=['You know all the games in our database!',
                    'Conocés todos los juegos en nuestra base de datos!']
-text_last_updated=['\n \n \n Last updated: 7 April 2022', ' \n \n \n Última actualización: 7 de abril de 2022']
+text_last_updated=['Last update: 7 April 2022', 'Última actualización: 7 de abril de 2022']
 
 
 #we need the following to hide indexes in a table
