@@ -1,0 +1,161 @@
+Ultima actualizacion: 21.3.2022
+
+'L.L.A.M.A.' --- 'LLAMA'
+'Through the Ages: A New Story of Civilization' --- 'Through the Ages: A new Story of Civilization'
+'Through the Ages: A Story of Civilization' ---  'Through the Ages'
+'Carcassonne: Hunters and Gatherers' --- 'Carcassonne: Hunters & Gatherers'
+'Colorpop'--- 'Color Pop'
+'Welcome to New Las Vegas'---'Welcome To New Las Vegas'
+'Yōkai'---'Yokai'
+'In the Year of the Dragon'---'In The Year of the Dragon' 
+'Agricola (Revised Edition)' -- 'Agricola'
+'Welcome To...' ---  'Welcome To'
+'Railroad Ink: Deep Blue Edition', ---  'Railroad Ink'
+"Tzolk'in: The Mayan Calendar" ---  "Tzolk'in"
+'Trek 12: Himalaya'--- 'Trek 12'
+'Conspiracy: Abyss Universe'---'Conspiracy'
+'The Crew: The Quest for Planet Nine'---'The Crew'
+'INSERT'--- 'Insert'
+'Apocalypse au Zoo de Carson City'--- 'Apocalypse at the Zoo of Carson City'
+'Battleship'---'Battleships Pencil & Paper'
+'Chinagold'---'China Gold'
+'Crazy Farmers and the Clôtures Électriques'---'Crazy Farmers'
+'Medina (Second Edition)'---'Medina'
+'Lewis & Clark: The Expedition'---'Lewis & Clark'
+'NOIR: Deductive Mystery Game'---'Noir: Killer versus Inspector'
+'Remember When ...'---'Remember When'
+'Evo'---'Evo: The “Game no Name”'
+'Go-Moku'---'Gomoku'
+'Il était une forêt'--- 'Once Upon A Forest'
+'Polis: Fight for the Hegemony'---'Polis: Fight for Hegemony'
+'Escape from the Hidden Castle'--- 'Hugo'
+'Tash-Kalar: Arena of Legends'---'Tash-Kalar'
+'Turn the Tide'---'Turn the tide'
+'Tarot'--- 'French Tarot'
+'Blockers!---'Uptown'
+'Cinch'---'Pedro'
+'Diamant'---'Incan Gold'
+'GOSU'---'Gosu'
+'Gurami: das Spiel'---'GORami'
+'Gyges'---'Gygès'
+'Hearts & Spades'---'Sparts'
+'Insidious Sevens'---'Oh-Seven'
+'Krosmaster: Arena'---'Krosmaster Arena'
+'Krosmaster: Blast'---'Krosmaster Blast'
+'Ninety-Nine'---'99 (trick-taking card game)'
+"O'NO 99"---'99 (addition card game)'
+'Othello'---'Reversi'
+'イラストリー (Illustori)'---'Illustori'
+'What the Heck?'--- 'Vulture Culture'
+'Hội Phố'--- 'Fai-fo'
+'Super Tock 6'---'Tock'
+'See Sek'---'Four Color Cards'
+'Scum: The Food Chain Game'--- 'President'
+'Tarock'--- 'Grosstarock'
+'Clash of Deck'---'Clash of Decks'
+'Chinese Checkers'--- 'Chinese checkers'
+'Contract Rummy'---'Liverpool (Cozy Oaks) Rummy'
+'Queens & Kings ...A Checkers Game' ---  'Queens & Kings... A Checkers Game'
+'The Lady and the Tiger' --- 'The Lady and the Tiger (Doors)'
+"I'm the Boss!" --- "I'm The Boss"
+'7 Wonders: Architects':'7 Wonders Architects',
+'Century: Spice Road':'Century',
+'Stella: Dixit Universe':'Stella – Dixit Universe',
+'Spot it!':'Spot it',
+'Space Empires 4X':'Space Empires: 4X'
+'Riichi Mahjong' : 'Japanese (Riichi) Mahjong'
+"くまきちファミリーの最高のティータイム (Kmakici Family's Greatest Teatime)":"Kmakici Family's greatest teatime"
+'Bao' :'Bao la Kiswahili'
+'La Glace et le Ciel':'Ice and the Sky'
+
+-------------------------------
+
+'Pitch'--- 'Phat'
+'Pitch'--- 'Caribbean All Fours'
+'Belote'---'Coinche'  (pero ya hay otro Belote!)
+
+AGREGADOS
+
+---------------------------
+
+'Railroad Ink: Blazing Red Edition'--- ELIMINAR
+'Viticulture Essential Edition'---ELIMINAR
+'Xanadú'--- ALPHA, eliminar
+'Ginkgopolis'--- ALPHA, eliminar
+'Fluxx Remixx'--- ? eliminar alpha
+'Riftforce'--- ? alpha
+'Mantis Falls'---?alpha
+'Century: Golem Edition'---?alpha
+'Harbour'---?
+
+ -------------------------------
+ 
+ There are three games, which are NOT physical board games and are not bgg items:
+* Alveole on BGA. For explanation read the announcement
+* Hypnosia on BGA. For explanation read the announcement
+* Lineae on BGA
+
+'Alveole' --- ahora esta agregado!
+'Hypnosia'
+'Lineae'
+'Pingimus' --- lo agregué yo (digital games)
+'Medo'--- ahora figura!!
+'Silo' --- no figura (solo web)
+'EpiZodiak'--- no figura
+'Minhwatu' --- no figura, korean game
+'Roppyakken' --- no figura, korean game
+'The Nine Domains' --- no figura
+----------------------------------
+Problema con 'Solo'
+'Solo' 3347 --- 'Solo'
+'Solo' 19451 --- 'Solo Whist' ---> cambiamos el nombre en BGG
+
+SOLVED
+
+------------------------------------
+
+Falta agregar
+id 102104 ---'Star Fluxx' 
+id 284584 ---'Troyes Dice'
+id 2386 ---'Chinese checkers'
+id 279769 --- 'Queens & Kings ...A Checkers Game'
+id 40004 --- 'Liverpool (Cozy Oaks) Rummy'
+id 17133 --- 'Railways of the World'
+id 191862 --- 'Imhotep'
+id 240567 --- 'Chocolate Factory'
+id 308500---'Clash of Decks'
+id 262477 --- 'Mercado de Lisboa'
+id 213953 --- 'Pyramid Poker'
+id 347086 --- "Lady's Choice"
+id 331666 ---'Zola'
+id 220308 ---'Gaia Project'
+id 291847 --- 'Mantis Falls'
+id 250725 --- 'Thrive'
+id 337178 --- 'Factum'
+id 364 --- 'Samarkand'
+id 115 --- "I'm The Boss"
+id 300226 --- 'Egocentric World'
+id 318556 --- 'Tucano'
+id 300369 --- 'Boomerang: USA'
+id 300367 ---'Boomerang: Europe'
+id 108018 --- 'Japanese (Riichi) Mahjong'
+id 121073 --- 'Panic Lab'
+id 352818 --- 'Twin Palms'
+id 236905 --- 'Castles of Caleira'
+id 341510 --- 'Rainbow'
+id 344268 --- 'The Mother Road: Route 66'
+id 356579 --- 'Icebreaker'
+id 14634 --- 'Homeworlds'
+id 343687 --- 'Alveole'
+id 14186 --- 'Bao la Kiswahili'
+id 183150 ---  'Morocco'
+id 356303 --- 'Crime Zoom: A Dirty Objective'
+id 128072 --- 'Vege Tables'
+id 241245 --- 'Get the MacGuffin'
+id 325121 --- 'Trusis'
+
+AGREGADAS
+
+
+id 1261 --- medina viejo, quitar!!
+
