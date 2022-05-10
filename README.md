@@ -6,7 +6,7 @@
 </p>
 
 In this project, we develop a content-based recommender system for games in [Board Game Arena (BGA)](https://boardgamearena.com/). 
-We collect information of the BGA's games using the API of [Board Game Geek (BGG)](https://boardgamegeek.com/). 
+We collect information on the BGA's games using the API of [Board Game Geek (BGG)](https://boardgamegeek.com/). 
 We explore the data, we build the recommender and we develop a web application to try it. 
 The details of the process can be found in the following folders:
 

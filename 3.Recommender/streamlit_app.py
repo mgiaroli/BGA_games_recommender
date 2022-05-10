@@ -81,11 +81,11 @@ text_history=["Copy your BGA's history (in English):",
               "Copiá tu historial de BGA (en español):"]
 history_help=["""English version of BGA only. Logged in BGA, go to this
               [page](https://boardgamearena.com/player?section=lastresults).
-              In the right you will see "your user's game history". 
-              Click there. In this new page you will find your 
+              On the right, you will see "your user's game history". 
+              Click there. On this new page, you will find your 
               "Most played games". Copy and paste the games in the same format 
               as appears there. "Game_name" : "number_of_plays" games, each game
-              separeted by one space or enter. 
+              separated by one space or enter. 
               Example: Stone Age: 60 games Carcassonne: 60 games. Press Ctrl + Enter to see the 
               data you entered.""",
               """Para versión en español de BGA solamente. Cuando hayas iniciado sesión en
